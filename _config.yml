@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Jay and Garima"
 keywords:    "Jay, Garima, Bali, Wedding"
-description: "Jay, Garima, Bali, Wedding"
+description: "Jay and Garima's wedding in Bali"
 source_link: "https://github.com/jaygari/jaygari.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
